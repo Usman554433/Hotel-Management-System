@@ -1,7 +1,7 @@
 # Hotel Management System  🏨
  🏨 Manage with ease: Hotel Management System crafted in ASP.NET, HTML, CSS, and JS, backed by robust database SQL for seamless operations!
 
-##Home Screen
+## Home Screen
 - The Home Screen greets users with an inviting hotel image backdrop and a prominent "Book Now" button, initiating the booking process.
 
 ## Login Screen
